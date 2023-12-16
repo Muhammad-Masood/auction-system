@@ -1,0 +1,26 @@
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe.config
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.pdb
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.csprojAssemblyReference.cache
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.Form1.resources
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.Properties.Resources.resources
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.csproj.GenerateResource.cache
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.csproj.CoreCompileInputs.cache
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.exe
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.pdb
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.Form2.resources
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\bin\Debug\Database1.mdf
+C:\Users\sp22-bsse-0056\source\repos\AuctionSystem\AuctionSystem\bin\Debug\Database1_log.ldf
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe.config
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.exe
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\bin\Debug\AuctionSystem.pdb
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.csproj.AssemblyReference.cache
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.Form1.resources
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.Form2.resources
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.Properties.Resources.resources
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.csproj.GenerateResource.cache
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.exe
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\obj\Debug\AuctionSystem.pdb
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\bin\Debug\Database.mdf
+C:\Users\Muhammad Masood\Downloads\AuctionSystem\AuctionSystem\bin\Debug\Database_log.ldf
